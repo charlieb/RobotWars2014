@@ -4,9 +4,9 @@ RobotWars2014
 Sample and Shared Code for RobotWars2014
 ----------------------------------------
 
-**Fluffy Pink Unicorns**
+**Fluffy White Unicorns**
 
-See FluffyPinkUnicorns directory
+See FluffyWhiteUnicorns directory
 
 Here is the video recorder code I used to capture the hand driven track avi along with the video I captured. To use it change the VideoCapture parameter from 0 to the file name. 
 
